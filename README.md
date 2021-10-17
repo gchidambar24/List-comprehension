@@ -17,3 +17,5 @@ For example, if the office made $15000 with the original discount age 18 , and w
 
 So, for the input 14, your program should output 20. 
 The output should be an integer
+
+##[list comprehension .docx](https://github.com/gchidambar24/List-comprehension/files/7360551/list.comprehension.docx)
